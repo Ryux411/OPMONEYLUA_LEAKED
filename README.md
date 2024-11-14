@@ -1,16 +1,16 @@
+Here’s the updated version with instructions:
 
+---
 
 # SafeMoneyLua Script - **Breaking Paywalls, Restoring Freedom**
 
-
+```
 ──▒▒▒▒▒▒───▄████▄
 ─▒─▄▒─▄▒──███▄█▀
-─▒▒▒▒▒▒▒─▐████──█─█
+─▒▒▒▒▒▒▒─▐████──█─█ **Modding should be free, not a cash grab.**
 ─▒▒▒▒▒▒▒──█████▄
 ─▒─▒─▒─▒───▀████▀
-
-
-**Modding should be free, not a cash grab.**
+```
 
 The GTA V Stand community thrives on openness and sharing, with countless developers contributing their work for free. But some people think they can slap a price tag on it. **SafeMoneyLua** is currently being sold for **$15 USD**—a blatant cash grab on what should’ve been freely available.
 
@@ -47,3 +47,5 @@ This script is for personal and educational use. Use responsibly and be aware of
    Use the Stand interface to run `SafeMoneyLua` and enjoy.
 
 ---
+
+Let me know if any further changes are needed!
