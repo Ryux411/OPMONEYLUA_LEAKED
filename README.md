@@ -7,7 +7,7 @@ Here’s the updated version with instructions:
 ```
 ──▒▒▒▒▒▒───▄████▄
 ─▒─▄▒─▄▒──███▄█▀
-─▒▒▒▒▒▒▒─▐████──█─█ **Modding should be free, not a cash grab.**
+─▒▒▒▒▒▒▒─▐████──█─█ Modding should be free, not a cash grab.
 ─▒▒▒▒▒▒▒──█████▄
 ─▒─▒─▒─▒───▀████▀
 ```
