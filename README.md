@@ -1,4 +1,4 @@
-# SafeMoneyLua Script - **Breaking Paywalls, Restoring Freedom**
+# SafeMoneyLua Script - **Breaking Paywalls**
 
 ```
 ──▒▒▒▒▒▒───▄████▄  
