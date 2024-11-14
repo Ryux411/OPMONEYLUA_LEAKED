@@ -1,7 +1,3 @@
-Here’s the updated version with instructions:
-
----
-
 # SafeMoneyLua Script - **Breaking Paywalls, Restoring Freedom**
 
 ```
@@ -47,5 +43,3 @@ This script is for personal and educational use. Use responsibly and be aware of
    Use the Stand interface to run `SafeMoneyLua` and enjoy.
 
 ---
-
-Let me know if any further changes are needed!
